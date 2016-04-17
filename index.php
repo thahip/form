@@ -26,7 +26,7 @@
     <label>Message</label>
     <textarea name="message" placeholder="Type Here"></textarea>
     
-    <label>*What is 2+2? (Anti-spam)</label>
+    <label>*What is 2+2? (Anti-spam</label>
     <input name="human" placeholder="Type Here">
     <input id="submit" name="submit" type="submit" value="Submit">
         
